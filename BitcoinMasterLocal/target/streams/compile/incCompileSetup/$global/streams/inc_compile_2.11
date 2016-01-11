@@ -1,0 +1,294 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+20 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalCollector$$anonfun$receive$1.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalCollector.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMaster$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMaster$$anonfun$receive$2.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMaster.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner$$anonfun$calculateCoinsFromLocalWorker$1.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner$$anonfun$cryptoCurrencyFinder$1$1.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner$$anonfun$receive$3.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinMasterApp$$anonfun$1.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinMasterApp$.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinMasterApp.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/ConsolidateCoins$.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/ConsolidateCoins.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMining$.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMining.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMiningInLocal$.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMiningInLocal.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/WorkerReportToMaster$.class
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/WorkerReportToMaster.class
+binary dependencies:
+3 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.2.jar
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> /Users/nogle/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+20 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalCollector
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalCollector$$anonfun$receive$1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMaster
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMaster$$anonfun$receive$2
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMaster$$anonfun$receive$2$$anonfun$applyOrElse$1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMiner
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMiner$$anonfun$calculateCoinsFromLocalWorker$1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMiner$$anonfun$cryptoCurrencyFinder$1$1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMiner$$anonfun$receive$3
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinMasterApp
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinMasterApp$
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinMasterApp$$anonfun$1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ConsolidateCoins
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ConsolidateCoins$
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> StartBitcoinMining
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> StartBitcoinMining$
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> StartBitcoinMiningInLocal
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> StartBitcoinMiningInLocal$
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> WorkerReportToMaster
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> WorkerReportToMaster$
+used names:
+147 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> !
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> &
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> &&
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> *
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> +
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> -
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> <
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> <init>
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ==
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> >=
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> >>
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ?
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> A1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> AbstractFunction0
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> AbstractFunction2
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> AbstractFunction3
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Actor
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ActorRef
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ActorSystem
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> App
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Array
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> B1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalCollector
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMaster
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinLocalMiner
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> BitcoinMasterApp
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Byte
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Character
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ClassTag
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ConsolidateCoins
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> DurationInt
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ExecutionContexts
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Function1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Int
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Integer
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Integer2int
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Long
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> MessageDigest
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> None
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Predef
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Product
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Props
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Random
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> RoundRobinRouter
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Runtime
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ScalaRunTime
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Serializable
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Source
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> StartBitcoinMining
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> StartBitcoinMiningInLocal
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> String
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> StringContext
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> System
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Timeout
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> Unit
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> WorkerReportToMaster
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> _hashCode
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> _toString
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> actor
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> actorFor
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> actorOf
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> actorRef2Scala
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> actorcount
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> akka
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> alphanumeric
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> apply
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> args
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> asInstanceOf
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ask
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> augmentString
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> availableProcessors
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> b
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> bitCoinObtained
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> bitcoin
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> byteArrayOps
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> calculateCoinsFromLocalWorker
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> concat
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> concurrent
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> context
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> countOfWorker
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> countOfWorker_=
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> cryptoCurrencyFinder
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> currentTimeMillis
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> digest
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> dispatch
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> duration
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> eq
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> foldLeft
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> forDigit
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> foreach
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> fromFile
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> gatorid
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> getBytes
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> getInstance
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> getRuntime
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> global
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> hashString
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> hashStringConstant
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> hashStringToReturn
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> hashStringToReturn1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> hashed
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> hexvalue
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> int2Integer
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> intWrapper
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> io
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> isInstanceOf
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> java
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> lang
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> launchRemote
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> materializeClassTag
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> mkString
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> numOfLeadingZeros
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> package
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> pattern
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> println
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> processes
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> proofOfWork
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> r
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> remoteMinerRef
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> routing
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> runtime
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> s
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> scala
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> seconds
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> security
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> self
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> sender
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> sha
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> shutdown
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> substring
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> system
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> take
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> timeEnd
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> timeStart
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> timeout
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> to
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> toInt
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> toString
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> tries
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> typedProductIterator
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> unchecked
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> util
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> while$1
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> withRouter
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> workerCount
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> zeroString
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> ||
+product stamps:
+20 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalCollector$$anonfun$receive$1.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalCollector.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMaster$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMaster$$anonfun$receive$2.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMaster.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner$$anonfun$calculateCoinsFromLocalWorker$1.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner$$anonfun$cryptoCurrencyFinder$1$1.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner$$anonfun$receive$3.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinLocalMiner.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinMasterApp$$anonfun$1.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinMasterApp$.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/BitcoinMasterApp.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/ConsolidateCoins$.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/ConsolidateCoins.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMining$.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMining.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMiningInLocal$.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/StartBitcoinMiningInLocal.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/WorkerReportToMaster$.class -> lastModified(1442211770000)
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes/WorkerReportToMaster.class -> lastModified(1442211770000)
+source stamps:
+1 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> hash(84cdbba87531731cb33e5b5af74f70a69c32cf63)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/nogle/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.2.jar -> lastModified(1398256631000)
+/Users/nogle/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/nogle/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.2.jar -> akka.actor.Actor
+/Users/nogle/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDyiGqUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwMsWHTnQABHNlbGZzcQB+AAuU+7cXdAAHY29udGV4dHVxAH4ACQAAAEFzcQB+AAs0Xw8QdAAGbm90aWZ5c3EAfgALGR3nOnQAB1JlY2VpdmVzcQB+AAuBDPJ+dAAHYml0Y29pbnNxAH4ACzFe1qp0AAhoZXh2YWx1ZXNxAH4AC3SGGeZ0AAR3YWl0c3EAfgAL0Y+EVnQADmNvcHkkZGVmYXVsdCQyc3EAfgALVmkVlnQADSRhc0luc3RhbmNlT2ZzcQB+AAs4SC1tdAAMcHJvZHVjdEFyaXR5c3EAfgALEHdaP3QABmVxdWFsc3NxAH4AC7QWDjR0ABJTdGFydEJpdGNvaW5NaW5pbmdzcQB+AAtppXH2dAAMYXNJbnN0YW5jZU9mc3EAfgALGcfso3QADmV4ZWN1dGlvblN0YXJ0c3EAfgALdzijRXQADHN5bmNocm9uaXplZHNxAH4ACzNiPgR0AA0kaXNJbnN0YW5jZU9mc3EAfgAL70rm+nQAB3JlY2VpdmVzcQB+AAsSQ8K+dAAKcHJlUmVzdGFydHNxAH4AC6S5fCd0AA1hcm91bmRSZWNlaXZlc3EAfgAL5Q3aN3QACGNhbkVxdWFsc3EAfgAL+xgwOnQAC3Bvc3RSZXN0YXJ0c3EAfgAL+t3ZD3QABG1haW5zcQB+AAsCuUw6dAAIcG9zdFN0b3BzcQB+AAvAwl6KdAANcHJvZHVjdFByZWZpeHNxAH4ACxx7Ill0AAlub3RpZnlBbGxzcQB+AAuqIpTwdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtzs1jndAAVQml0Y29pbkxvY2FsQ29sbGVjdG9yc3EAfgALmWz8mHQADGlzSW5zdGFuY2VPZnNxAH4AC+k5UoJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALX35UkXQADmFyb3VuZFBvc3RTdG9wc3EAfgALz8q22XQABjxpbml0PnNxAH4AC8QJdux0AAhwcmVTdGFydHNxAH4AC4gF59B0AAlwcm9jZXNzZXNzcQB+AAtZXquddAAJdW5oYW5kbGVkc3EAfgALIgBc33QADnJlbW90ZU1pbmVyUmVmc3EAfgALT3D513QAAj09c3EAfgALq7gOSnQABWNsb25lc3EAfgAL2fy+v3QAHWNhbGN1bGF0ZUNvaW5zRnJvbUxvY2FsV29ya2Vyc3EAfgAL6BoxC3QAEEJpdGNvaW5NYXN0ZXJBcHBzcQB+AAuebywDdAAZU3RhcnRCaXRjb2luTWluaW5nSW5Mb2NhbHNxAH4AC0M7DfZ0AA5jb3B5JGRlZmF1bHQkM3NxAH4ACyqadTp0AARjb3B5c3EAfgAL/K4gLHQABnNlbmRlcnNxAH4AC8l2wuV0AAV0cmllc3NxAH4AC+1Pa8B0AAh0b1N0cmluZ3NxAH4AC4mvUPZ0AARhcmdzc3EAfgALgQKFrHQAAiE9c3EAfgALEjEDmnQACGdldENsYXNzc3EAfgAL2U/Y03QADmNvcHkkZGVmYXVsdCQxc3EAfgALGlVecnQAB2dhdG9yaWRzcQB+AAvDmKtqdAARbnVtT2ZMZWFkaW5nWmVyb3NzcQB+AAsmOINzdAACbmVzcQB+AAtKhwQmdAASQml0Y29pbkxvY2FsTWFzdGVyc3EAfgAL2sWJynQACmFjdG9yY291bnRzcQB+AAuZWWcrdAANY291bnRPZldvcmtlcnNxAH4AC3utVU50ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtwRVYPdAACZXFzcQB+AAuPhhuXdAAQQ29uc29saWRhdGVDb2luc3NxAH4AC5o52u50AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAttA6O/dAARQml0Y29pbkxvY2FsTWluZXJzcQB+AAsmofoYdAALZGVsYXllZEluaXRzcQB+AAtnA+t+dAACIyNzcQB+AAs+uWv6dAAIZmluYWxpemVzcQB+AAvqjwhKdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtB6rxxdAAIaGFzaENvZGVzcQB+AAtHTeekdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAsl9E4sdAAUV29ya2VyUmVwb3J0VG9NYXN0ZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAIc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AF11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AtAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AnUwACWluaGVyaXRlZHEAfgCdTAAHcGFyZW50c3EAfgCdeHEAfgC7c3EAfgC0AXVxAH4AmAAAAABwc3EAfgC0AXVxAH4AmAAAAABwc3EAfgC0AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AunQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AunNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGlt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xAH4AsgAAAABzcQB+ALQBcQB+ALxwc3EAfgC0AXNxAH4AvnNxAH4AtAF1cQB+AJgAAAAAcHNxAH4AtAF1cQB+AJgAAAAAcHNxAH4AtAF1cQB+AMUAAAADc3EAfgDHdAAFQWN0b3JzcQB+AMtzcQB+AM51cQB+ANEAAAADc3EAfgDTdAAEYWtrYXNxAH4A03QABWFjdG9ycQB+ANhzcQB+AMdxAH4A5nNxAH4Ay3NxAH4AznVxAH4A0QAAAANzcQB+ANNxAH4A3nNxAH4A03EAfgDscQB+ANhzcQB+AMdxAH4A7nNxAH4Ay3NxAH4AznVxAH4A0QAAAAJzcQB+ANNxAH4A1nEAfgDYcHBzcQB+AJpxAH4Ap3VxAH4AqAAAAABzcQB+AKoAcQB+ACV1cQB+AKwAAAAAcQB+ALB1cQB+ALIAAAAAc3EAfgC0AXEAfgC8cHNxAH4AtAFzcQB+AL5zcQB+ALQBdXEAfgCYAAAAAHBzcQB+ALQBdXEAfgCYAAAAAHBzcQB+ALQBdXEAfgDFAAAABnNxAH4Ax3EAfgDKc3EAfgDLc3EAfgDOdXEAfgDRAAAAAnNxAH4A03EAfgDWcQB+ANhzcQB+AMdxAH4AynNxAH4Ay3NxAH4AznVxAH4A0QAAAANzcQB+ANNxAH4A3nNxAH4A03QAAmlvcQB+ANhzcQB+AMdxAH4A4nEAfgGCc3EAfgDHdAAGRXF1YWxzcQB+AYJzcQB+AMdxAH4A5nNxAH4Ay3NxAH4AznVxAH4A0QAAAANzcQB+ANNxAH4A3nNxAH4A03EAfgDscQB+ANhzcQB+AMdxAH4A7nEAfgGCcHBzcQB+AJpxAH4Ap3VxAH4AqAAAAABzcQB+AKoAcQB+AJN1cQB+AKwAAAAAcQB+ALB1cQB+ALIAAAAAc3EAfgC0AXEAfgC8cHNxAH4AtAFzcQB+AL5zcQB+ALQBdXEAfgCYAAAAAHBzcQB+ALQBdXEAfgCYAAAAAHBzcQB+ALQBdXEAfgDFAAAABnNxAH4Ax3EAfgDKc3EAfgDLc3EAfgDOdXEAfgDRAAAAAnNxAH4A03EAfgDWcQB+ANhzcQB+AMdxAH4AynNxAH4Ay3NxAH4AznVxAH4A0QAAAANzcQB+ANNxAH4A3nNxAH4A03QAAmlvcQB+ANhzcQB+AMdxAH4A4nEAfgGmc3EAfgDHdAAGRXF1YWxzcQB+AaZzcQB+AMdxAH4A5nNxAH4Ay3NxAH4AznVxAH4A0QAAAANzcQB+ANNxAH4A3nNxAH4A03EAfgDscQB+ANhzcQB+AMdxAH4A7nEAfgGmcHBzcQB+AJpxAH4Ap3VxAH4AqAAAAABzcQB+AKoAcQB+AHd1cQB+AKwAAAAAcQB+ALB1cQB+ALIAAAAAc3EAfgC0AXEAfgC8cHNxAH4AtAFzcQB+AL5zcQB+ALQBdXEAfgCYAAAAAHBzcQB+ALQBdXEAfgCYAAAAAHBzcQB+ALQBdXEAfgDFAAAAA3NxAH4Ax3QABUFjdG9yc3EAfgDLc3EAfgDOdXEAfgDRAAAAA3NxAH4A03QABGFra2FzcQB+ANN0AAVhY3RvcnEAfgDYc3EAfgDHcQB+AOZzcQB+AMtzcQB+AM51cQB+ANEAAAADc3EAfgDTcQB+AN5zcQB+ANNxAH4A7HEAfgDYc3EAfgDHcQB+AO5zcQB+AMtzcQB+AM51cQB+ANEAAAACc3EAfgDTcQB+ANZxAH4A2HBwc3EAfgCacQB+AKd1cQB+AKgAAAAAc3EAfgCqAHEAfgCFdXEAfgCsAAAAAHEAfgCwdXEAfgCyAAAAAHNxAH4AtAFxAH4AvHBzcQB+ALQBc3EAfgC+c3EAfgC0AXVxAH4AmAAAAABwc3EAfgC0AXVxAH4AmAAAAABwc3EAfgC0AXVxAH4AxQAAAANzcQB+AMd0AAVBY3RvcnNxAH4Ay3NxAH4AznVxAH4A0QAAAANzcQB+ANN0AARha2thc3EAfgDTdAAFYWN0b3JxAH4A2HNxAH4Ax3EAfgDmc3EAfgDLc3EAfgDOdXEAfgDRAAAAA3NxAH4A03EAfgDec3EAfgDTcQB+AOxxAH4A2HNxAH4Ax3EAfgDuc3EAfgDLc3EAfgDOdXEAfgDRAAAAAnNxAH4A03EAfgDWcQB+ANhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPyoUP2nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AH4vVXNlcnMvbm9nbGUvYWtrYS1wcm9qZWN0cy9QUk9KRUNUMV9VRklEc184Mzg2MDE5MV8yOTUzMzkwNi9CaXRjb2luTWluaW5nUHJvamVjdDEvQml0Y29pbk1hc3RlckxvY2FsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSEzbuodTFzHLM+W1r3T3CmnDLPYw==
+external apis:
+0 items
+source infos:
+1 items
+/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/src/main/scala/LocalMiner.scala -> 
+AAAAAAAAAAA=
+compilations:
+13 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8oHh411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8oRUz51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8oSerd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8okCQB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8omjzN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8o0odd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8o8nBZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8pUrwh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8pbUeN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8pehiJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8pgteN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8qCYV11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8qFD9p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9ub2dsZS9ha2thLXByb2plY3RzL1BST0pFQ1QxX1VGSURzXzgzODYwMTkxXzI5NTMzOTA2L0JpdGNvaW5NaW5pbmdQcm9qZWN0MS9CaXRjb2luTWFzdGVyTG9jYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

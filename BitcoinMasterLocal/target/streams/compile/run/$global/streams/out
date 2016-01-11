@@ -1,0 +1,24 @@
+[0m[[0minfo[0m] [0mRunning BitcoinMasterApp 5 launchRemoteToo[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/akka-projects/PROJECT1_UFIDs_83860191_29533906/BitcoinMiningProject1/BitcoinMasterLocal/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/tools/activator-dist-1.3.6/repository/com.typesafe/config/1.2.0/bundles/config.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/.ivy2/cache/com.typesafe.akka/akka-remote_2.11/jars/akka-remote_2.11-2.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/tools/activator-dist-1.3.6/repository/io.netty/netty/3.8.0.Final/bundles/netty.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/.ivy2/cache/com.google.protobuf/protobuf-java/bundles/protobuf-java-2.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nogle/tools/activator-dist-1.3.6/repository/org.uncommons.maths/uncommons-maths/1.2.2a/jars/uncommons-maths.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread BitcoinMinerLocalSystem-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread BitcoinMinerLocalSystem-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-3-worker-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-3-worker-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-3-worker-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-3-worker-7[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
